@@ -1,6 +1,14 @@
+Changes for 1.9.1.4.5
+ -Add ArtOS Defender
+ -Add Security Tab in Settings
+ -Add Viruses Check in Defender
+ -Add DataBase Upgrade and vertion Upgrade [It's Free for too protections levels]
+ [Bugsfixs]
+ -Main User dosen't show when you have 1 user [Fixed]
+
 Changes for 1.9.1.4.4
  -Add changing background in user Select
  -Add Update Logs
  -Add Backup System
- [BUGS]
+ [Bugsfixs]
  -Update system bug
