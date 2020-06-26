@@ -3,6 +3,7 @@ Changes for 1.9.1.4.6
  -Add new Dock
  -Add AllApps
  [In developpement]
+ -New better UI in Explorer
   [Others]
 	-Dock & AllApps are in developpements all apps is not repetoried
 	-ACS (ArtOS Crypting System)
