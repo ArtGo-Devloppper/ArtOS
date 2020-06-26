@@ -1,3 +1,27 @@
+Changes for 1.9.1.4.6
+ -Add NetExplorer
+ -Add new Dock
+ -Add AllApps
+ [In developpement]
+  [Others]
+	-Dock & AllApps are in developpements all apps is not repetoried
+	-ACS (ArtOS Crypting System)
+	-ADS (ArtOS Drive Locker)
+	-AD (ArtOS Defender)
+	-New better UI
+	-AVS (ArtOS Virtualise System)
+	-CloudManager
+	-Help support
+	-Returns support
+	-Crash & Help Support
+  [Apps]
+	-Photo
+	-Phone (wifi calls)
+	-CommandsPrompts
+	-Store
+	-AllApps
+ 
+
 Changes for 1.9.1.4.5
  -Add ArtOS Defender
  -Add Security Tab in Settings
