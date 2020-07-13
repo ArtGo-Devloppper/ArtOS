@@ -1,3 +1,12 @@
+Changes for 1.9.1.4.6.1
+ -Add new apps in the dock
+ [In developpement]
+  -The new File Explorer
+  -The new UI
+  -The Virtualisation App
+  -The dock
+
+
 Changes for 1.9.1.4.6
  -Add NetExplorer
  -Add new Dock
