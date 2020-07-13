@@ -1,6 +1,7 @@
 Changes for 1.9.1.4.6.1
  WARNING : This is a snapshot for the next Preview ! All features is not implemented, It is at your own risk !
  -Add new apps in the dock
+ -Bug Reporter is finish you can send bugs and comments !
  [In developpement]
   -The new File Explorer
   -The new UI
