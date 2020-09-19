@@ -1,7 +1,8 @@
 # ArtOS
 
 # Informations
-  Hi guys ! The next snapshot is late because the recognition of the face gives me a hard time!
+  Hi guys ! 
+  ArtOS is the most simple Operating Sytem, You can test the OS On Windows x64 and x32
 
   
 # About ArtOS
