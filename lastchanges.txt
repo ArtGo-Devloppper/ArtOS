@@ -1,8 +1,11 @@
+Changes for 1.9.1.4.6.4
+ -Add posibility for create files and folders in the desktop
+ -Add loading files and folders in the desktop
+
 Changes for 1.9.1.4.6.3 
  -Add new Folder in AllApps (Advanced Options)
  -Add the commands prompt
  -Add facial Reconition for unlock ArtOS (Make by Mesut Pişkin)
-NOTE - ArtOS IS NOT SEND BEACAUSE THE FILE IS TOO BIG (THE FILE WILL BE SEND LATER);
 
 Changes for 1.9.1.4.6.1
  WARNING : This is a snapshot for the next Preview ! All features is not implemented, It is at your own risk !
